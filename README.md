@@ -1,5 +1,5 @@
 # Описание
-Веб чат созданный с помощью Node.js Socket.io
+Веб чат созданный с помощью [Node.js][node.js]  [Socket.io][socket.io]
 
 ## Какие возможность есть у этого приложения?
 
@@ -8,6 +8,8 @@
 3. Выход из комнаты беседы
 
 Внешний вид:
+
+![gif](https://media.giphy.com/media/n9DL83tKMC5qBBnOLP/giphy.gif)
 
 
 ## Установка 
@@ -45,10 +47,10 @@ npm run dev
 
 Основные технологие используемые в приложении
 
--Node.js
--Socket.io
--Moment.js
--Express
+- Node.js
+- Socket.io
+- [Moment.js][moment]
+- [Express][express]
 
 ## Сотрудничество
 
@@ -59,3 +61,6 @@ npm run dev
 
 [node.js]: https://nodejs.org/
 [npm]: https://www.npmjs.com/get-npm
+[socket.io]: https://socket.io/
+[moment]: https://momentjs.com/
+[express]: https://momentjs.com/
