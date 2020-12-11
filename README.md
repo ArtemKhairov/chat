@@ -1,6 +1,12 @@
 # Описание
 Веб чат созданный с помощью [Node.js][node.js]  [Socket.io][socket.io]
 
+### Аналоги
+
+Данное приложение имеет альтернативный варинат исполнения с использование React
+
+[Ссылка на приложение][chat]
+
 ## Какие возможность есть у этого приложения?
 
 1. Выбор имени пользователя
@@ -64,3 +70,4 @@ npm run dev
 [socket.io]: https://socket.io/
 [moment]: https://momentjs.com/
 [express]: https://momentjs.com/
+[chat]:https://github.com/ArtemKhairov/web-chat-react
